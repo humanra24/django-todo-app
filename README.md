@@ -55,7 +55,7 @@ todoproject
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/yourusername/django-todo-app.git
+git clone https://github.com/humanra24/django-todo-app.git
 cd django-todo-app
 ```
 
@@ -106,12 +106,6 @@ http://127.0.0.1:8000/admin
 - Django Admin
 - Template rendering
 - Basic CRUD workflow
-
----
-
-## 📸 Screenshot
-
-_Add your project screenshot here_
 
 ---
 
