@@ -1,0 +1,10 @@
+<h1>Todo List</h1>
+
+<ul>
+  {% for todo in todos %}
+  <li>
+    <b>{{ todo.title }}</b><br />
+    {{ todo.description }}
+  </li>
+  {% endfor %}
+</ul>
